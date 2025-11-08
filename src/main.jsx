@@ -51,9 +51,9 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  // {
-  //   basename: "/ShopSmart", // لو حتنشر داخل مجلد فرعي
-  // }
+   {
+    basename: "/Store",
+  }
 );
 
 createRoot(document.getElementById("root")).render(
