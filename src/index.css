@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Outfit";
+  src: url("/src/assets/font/Outfit-VariableFont_wght.ttf") format("truetype");
+  
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
